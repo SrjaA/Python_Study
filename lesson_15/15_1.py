@@ -36,3 +36,8 @@ def second_test():
 
 # first_test_wrapped = simple_decore(first_test)
 # second_test_wrapped = simple_decore(second_test)
+
+import math
+a=9
+b=math.sqrt(a)
+print(b)
